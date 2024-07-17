@@ -1,0 +1,15 @@
+class TestData():
+    address = 'Nobodoy Housing Society, Mohammadpur'
+    street_address = 'Road-2'
+    street_address_2 = 'House-14'
+    city = 'Dhaka'
+    state = 'Dhaka'
+    zip_code = '1200'
+    country = 'Bangladesh'
+    date = '11-21-2000'
+    input = 'Anika'
+    name = 'Anika Tabassum'
+    name_1 = 'Anika'
+    name_2 = 'Tabassum'
+    job = 'Student'
+
